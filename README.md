@@ -5,4 +5,4 @@ Here are some ideas to get you started:
 
 - 👋 Hi, I’m WataKoro
 - 👀 I’m interested in Games, Mobile Application, and Web Development
-- 🌱 I’m currently learning Unreal Engine
+- 🌱 I’m currently learning Unreal Engine and Unity
